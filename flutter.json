@@ -1,23 +1,11 @@
-[
-  {
-    "id": "1",
-    "title": "Design Homepage",
-    "description": "Create a wireframe for the homepage",
-    "isCompleted": false,
-    "assignedTo": "Unassigned"
-  },
-  {
-    "id": "2",
-    "title": "Setup Backend",
-    "description": "Setup the database and API structure",
-    "isCompleted": false,
-    "assignedTo": "John Doe"
-  },
-  {
-    "id": "3",
-    "title": "UI Refinement",
-    "description": "Polish the UI elements and layout",
-    "isCompleted": true,
-    "assignedTo": "Jane Smith"
-  }
-]
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Develop API for Task Management",
+      "description": "Create an API to handle CRUD operations for tasks.",
+      "assigned_to": "John Doe",
+      "due_date": "2025-03-30"
+    }
+  ]
+}
