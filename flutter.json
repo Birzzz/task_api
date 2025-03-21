@@ -6,6 +6,13 @@
       "description": "Create an API to handle CRUD operations for tasks.",
       "assigned_to": "John Doe",
       "due_date": "2025-03-30"
+    },
+    {
+      "id": 2,
+      "title": "UI Design for Dashboard",
+      "description": "Design the UI for the task management dashboard.",
+      "assigned_to": "Jane Smith",
+      "due_date": "2025-03-25"
     }
   ]
 }
