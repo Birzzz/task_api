@@ -1,32 +1,23 @@
-{
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Develop API for Task Management",
-      "description": "Create an API to handle CRUD operations for tasks.",
-      "assigned_to": "John Doe",
-      "due_date": "2025-03-30"
-    },
-    {
-      "id": 2,
-      "title": "UI Design for Dashboard",
-      "description": "Design the UI for the task management dashboard.",
-      "assigned_to": "Jane Smith",
-      "due_date": "2025-03-25"
-    },
-    {
-      "id": 3,
-      "title": "Implement Task CRUD Operations",
-      "description": "Implement create, read, update, and delete operations for tasks.",
-      "assigned_to": "Alice Brown",
-      "due_date": "2025-04-05"
-    },
-    {
-      "id": 4,
-      "title": "Task Assignment and Notification System",
-      "description": "Implement task assignment and notification feature.",
-      "assigned_to": "John Doe",
-      "due_date": "2025-03-28"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "Design Homepage",
+    "description": "Create a wireframe for the homepage",
+    "isCompleted": false,
+    "assignedTo": "Unassigned"
+  },
+  {
+    "id": "2",
+    "title": "Setup Backend",
+    "description": "Setup the database and API structure",
+    "isCompleted": false,
+    "assignedTo": "John Doe"
+  },
+  {
+    "id": "3",
+    "title": "UI Refinement",
+    "description": "Polish the UI elements and layout",
+    "isCompleted": true,
+    "assignedTo": "Jane Smith"
+  }
+]
